@@ -1,39 +1,67 @@
-1 $nomention
+$nomention
 
-2 $authorIcon [$user Avatar [1006621302225899672]]
+$ $authorIcon [$user Avatar [DİSCORD BOTUNUZ ID]]
 
-3 $author$username [1006621302225899672]
+$author$username [DİSCORD BOTUNUZ ID]
 
-4 Bot Bilgi Menüsü !]
+Bot Bilgi Menüsü !]
 
-5 $description[$thumbnail [ $user Avatar [1006621302225899672]]
+$description[$thumbnail [ $user Avatar [DİSCORD BOTUNUZ ID]]
 
-6 Sahibim ;
+Sahibim ;
 
-7 $username [814407120018735105] #$discriminator [814407120018735
+$username [SİZİN DİSCORD ID] $discriminator [SİZİM DİSCORD ID
 
-8 Oluşturma Tarihim. ; $creationDate [1006621302225899672]
+ Oluşturma Tarihim. ; $creationDate [DİSCORD BOTUNUZ ID]
 
-9
+ Açık Kalma Sürem; $uptime
 
-10 Açık Kalma Sürem; $uptime
+Şuanki Pingim; $ping
 
-11 Şuanki Pingim; $ping
+Toplam Komut Sayım; $commandsCount
 
-12
+ Toplam Sunucum ; $serverCount
 
-13 Toplam Komut Sayım; $commandsCount
+Toplam Kullanıcı; $allMembersCount
 
-14 Toplam Sunucum ; $serverCount
+ ]
 
-15 Toplam Kullanıcı; $allMembersCount
+$footer[$username [SİZİN DİSCORD ID]]
 
-16 1
+ $addTimestamp
 
-17 $footer[$username [814407120018735105]]
+ $footerIcon [$authorAvatar]
 
-18 $addTimestamp
 
-19 $footerIcon [$authorAvatar]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
